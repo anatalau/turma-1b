@@ -1,1 +1,3 @@
-# turma-1b
+body{
+    background: 100, 30, 15;
+}
