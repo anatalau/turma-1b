@@ -10,7 +10,12 @@ p{
     text-align: left;
 }
 
-.img{
+#img-livro{
+    width: 300px;
+    height: 388.542px;
+}
+
+#img-filme{
     width: 300px;
     height: 388.542px;
 }
