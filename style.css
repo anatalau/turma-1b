@@ -6,9 +6,11 @@ h1{
     text-align: center;
 }
 #amor {
+    background: white;
     color:rgba(255, 153, 127, 0.774);
 }
 #gelato {
+    background: white;
     color:rgb(135, 243, 243);
 }
 p{
