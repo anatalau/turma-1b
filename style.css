@@ -20,10 +20,16 @@ p{
 #img-livro{
     width: 300px;
     height: 388.542px;
-    display: inline;
+    display: inline-block;
+}
+
+.txt{
+    width: 48%;
+    display: inline-block;
 }
 
 #img-filme{
     width: 300px;
     height: 388.542px;
+    display: inline-block;
 }
