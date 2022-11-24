@@ -19,7 +19,7 @@ p{
 
 #img-livro{
     width: 48%;
-    height: 388.542px;
+    height: auto;
     display: inline-block;
 }
 
@@ -31,6 +31,6 @@ p{
 
 #img-filme{
     width: 48%;
-    height: 388.542px;
+    height: auto;
     display: inline-block;
 }
